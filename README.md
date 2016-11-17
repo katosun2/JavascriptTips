@@ -7,3 +7,7 @@
 ##### 速查图
 
 ![quick markdown](https://raw.githubusercontent.com/katosun2/JavascriptTips/master/quick%20markdown.png)
+
+##### 部分TIPS转载以下网站：
+
+[jstips](https://github.com/loverajoel/jstips)
